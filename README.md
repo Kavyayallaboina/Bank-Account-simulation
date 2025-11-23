@@ -13,8 +13,11 @@ It allows the user to deposit money, withdraw money, check balance, and view tra
   ## Sample Output
 
   --- BANK ACCOUNT SIMULATION ---
+  
 Enter Account Number: 12345
+
 Enter Account Holder Name: Kavya
+
 Enter Initial Balance: 1000
 
 1. Deposit
@@ -24,7 +27,9 @@ Enter Initial Balance: 1000
 5. Exit
 
 Choose an option: 1
+
 Enter deposit amount: 500
+
 Deposit successful.
 
 Choose an option: 4
@@ -32,6 +37,7 @@ Choose an option: 4
 --- Transaction History ---
 
 Account created with balance: 1000.0
+
 Deposited: 500.0 | New Balance: 1500.0
 
 Exiting... Thank you!
