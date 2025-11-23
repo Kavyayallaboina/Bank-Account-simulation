@@ -22,6 +22,7 @@ Enter Initial Balance: 1000
 3. Check Balance
 4. Transaction History
 5. Exit
+
 Choose an option: 1
 Enter deposit amount: 500
 Deposit successful.
@@ -29,6 +30,7 @@ Deposit successful.
 Choose an option: 4
 
 --- Transaction History ---
+
 Account created with balance: 1000.0
 Deposited: 500.0 | New Balance: 1500.0
 
