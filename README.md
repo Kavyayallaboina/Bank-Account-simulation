@@ -10,9 +10,9 @@ It allows the user to deposit money, withdraw money, check balance, and view tra
 - Check current balance
 - View transaction history
 
-  ## Sample Output
-
-  --- BANK ACCOUNT SIMULATION ---
+ ## Sample Output
+ 
+ --- BANK ACCOUNT SIMULATION ---
   
 Enter Account Number: 12345
 
